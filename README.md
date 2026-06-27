@@ -1,16 +1,18 @@
-## Hi there 👋
+Yahallo!! 👋
 
-<!--
-**Projit1101/Projit1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Projit, a Data Science & AI student from India who enjoys building projects that turn data into meaningful solutions.
 
-Here are some ideas to get you started:
+🌱 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Strengthening my skills in Machine Learning and AI
+- Building projects with Python and SQL
+- Exploring Data Analytics and Deep Learning
+
+🛠️ Tools I use
+
+Python • SQL • Git • GitHub • Jupyter Notebook • VS Code
+
+📫 Reach me
+
+- LinkedIn: https://www.linkedin.com/in/projit-dutt-614877281
+- Email: projitdutt@gmail.com
