@@ -10,7 +10,7 @@ I'm Projit, a Data Science & AI student from India who enjoys building projects 
 
 🛠️ Tools I use
 
-Python • SQL • Git • Jupyter Notebook • VS Code • Google Cloud
+• Python • SQL • Git • Jupyter Notebook • VS Code • Google Cloud
 
 📫 Reach me
 
