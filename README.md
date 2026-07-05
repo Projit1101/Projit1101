@@ -4,13 +4,13 @@ I'm Projit, a Data Science & AI student from India who enjoys building projects 
 
 🌱 Currently working on
 
-- Strengthening my skills in Machine Learning and AI
+- Strengthening my skills in Cybersecurity and AI
 - Building projects with Python and SQL
 - Exploring Data Analytics and Deep Learning
 
 🛠️ Tools I use
 
-Python • SQL • Git • GitHub • Jupyter Notebook • VS Code
+Python • SQL • Git • Jupyter Notebook • VS Code • Google Cloud
 
 📫 Reach me
 
